@@ -53,6 +53,12 @@ hrt_model_exec perf --model_file modenet.bin --frame_count 100 --thread_num 1
 
 # 4. 案例展示
 
+Python推荐使用3.10，我们使用3.10.12，随后进行相关依赖的安装：
+
+```
+pip install -r requirements.txt
+```
+
 案例运行，只需要运行：
 
 ```plain&#x20;text
